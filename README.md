@@ -1,7 +1,8 @@
 # Daily-News
 A simple web app which uses AJAX techniques to fetch news API.
-__Frontend__
 <br><br>
+__Frontend__
+<br>
 ![image](https://user-images.githubusercontent.com/59146229/104026974-bd00a580-51ec-11eb-8927-bc9334a0efb4.png)
 <br><br>
 __Click the Read More Button__
